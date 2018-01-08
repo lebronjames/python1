@@ -32,4 +32,4 @@ url = "http://blog.csdn.net/beliefer/article/details/51251757"
 # 这里面的my_headers中的内容由于是个人主机的信息，所以我就用句号省略了一些，在使用时可以将自己主机的<span style="color: rgb(84, 84, 84); font-family: 'Segoe UI', Tahoma, sans-serif;  white-space: pre-wrap;"><strong>User-Agent放进去</strong></span>
 my_headers = [
     "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/53。。。(KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"]
-print(getContent(url, my_headers)) 
+print(getContent(url, my_headers))

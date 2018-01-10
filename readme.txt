@@ -55,5 +55,8 @@ keyword：这个参数可以让你选择那些具有特定属性的标签。
 
 Spider4.py 爬取百度贴吧页面的图片信息
 
-
+9. BeautifulSoup爬取图片信息，urlretrieve转储图片信息
+imageUrl = image["src"]     #img中网址，也就是图片的网址
+imageLocation = "D://picture/" + str(index+1) + ".jpg"  # 图片保存的地址，这里动态命名为数字.jpg
+urlretrieve(imageUrl, imageLocation)
 

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1075859f-fbec-4290-bb3c-e806020215c4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.txt" afterPath="$PROJECT_DIR$/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider/Spider5.py" afterPath="$PROJECT_DIR$/spider/Spider5.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,8 +31,8 @@
       <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+            <state relative-caret-position="460">
+              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -40,8 +41,8 @@
       <file leaf-file-name="Spider5.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spider/Spider5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+            <state relative-caret-position="362">
+              <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -130,8 +131,8 @@
         <option value="$PROJECT_DIR$/../machineLearningPython/knn/KNN2.py" />
         <option value="$PROJECT_DIR$/../machineLearningPython/readme.txt" />
         <option value="$PROJECT_DIR$/spider/Spider04.py" />
-        <option value="$PROJECT_DIR$/readme.txt" />
         <option value="$PROJECT_DIR$/spider/Spider5.py" />
+        <option value="$PROJECT_DIR$/readme.txt" />
       </list>
     </option>
   </component>
@@ -232,25 +233,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Spider04">
-    <configuration default="false" name="urllib" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/step1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python1" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step1/urllib.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Spider5">
     <configuration default="false" name="spider01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -323,6 +306,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="Spider5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider/Spider5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -388,19 +389,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.urllib" />
-      <item index="1" class="java.lang.String" itemvalue="Python.spider01" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Spider02" />
-      <item index="3" class="java.lang.String" itemvalue="Python.KNN2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Spider04" />
+      <item index="0" class="java.lang.String" itemvalue="Python.spider01" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Spider02" />
+      <item index="2" class="java.lang.String" itemvalue="Python.KNN2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Spider04" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Spider5" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Spider04" />
-        <item index="1" class="java.lang.String" itemvalue="Python.KNN2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Spider02" />
-        <item index="3" class="java.lang.String" itemvalue="Python.spider01" />
-        <item index="4" class="java.lang.String" itemvalue="Python.urllib" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Spider5" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Spider04" />
+        <item index="2" class="java.lang.String" itemvalue="Python.KNN2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Spider02" />
+        <item index="4" class="java.lang.String" itemvalue="Python.spider01" />
       </list>
     </recent_temporary>
   </component>
@@ -813,14 +814,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spider/Spider04.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -839,10 +832,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spider/Spider5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        <state relative-caret-position="362">
+          <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>

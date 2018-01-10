@@ -49,3 +49,9 @@ nameList=bsObj.findAll(text="the prince")
 limit：范围限制参数limit，显然只用于findAll方法。find其实等价于findAll的limit等于时的情形。如果你只对网页中获取的前n项结果感兴趣，就可以设置它。但是需要注意，这个参数设置之后，获得的前几项结果按照网页上的 顺序排序的，未必是你想要的那前几项。
 keyword：这个参数可以让你选择那些具有特定属性的标签。
 
+8. 使用正则表达式和BeautifulSoup配合，获取网站图片
+百度贴吧http://imgsrc.baidu.com/forum/w%3D580/sign和后面的.jpg是固定的，那么这就是我们正则表达式的突破口了，
+我们只需要让正则表达式匹配前面和后面的定值，中间匹配任意字符，那就可以拿到所有的网址了
+
+Spider4.py 爬取百度贴吧页面的图片信息
+

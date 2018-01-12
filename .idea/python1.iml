@@ -6,6 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="machineLearning" />
     <orderEntry type="module" module-name="machineLearningPython" />
+    <orderEntry type="module" module-name="NerualNetworkPython" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

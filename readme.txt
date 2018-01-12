@@ -60,3 +60,9 @@ imageUrl = image["src"]     #img中网址，也就是图片的网址
 imageLocation = "D://picture/" + str(index+1) + ".jpg"  # 图片保存的地址，这里动态命名为数字.jpg
 urlretrieve(imageUrl, imageLocation)
 
+10. 列表操作---Test05.py
+字典操作---Test06.py
+面向对象---Oo.py
+
+
+

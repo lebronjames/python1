@@ -63,6 +63,5 @@ urlretrieve(imageUrl, imageLocation)
 10. 列表操作---Test05.py
 字典操作---Test06.py
 面向对象---Oo.py
-
-
+lambda,filter,map,reduce,apply---Test08.py
 
